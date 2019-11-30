@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb82e99e-8053-4c52-bc4b-ccb09e505218" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Panorama.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyuiutils/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyuiutils/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyuiutils/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyuiutils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyuiutils/uiutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/campus_pano_blendwidth200_360degree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/campus_pano_blendwidth50_360degree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/campus_pano_blendwidth50_no360degree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_013.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_015.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_016.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/campus/panorama/campus_017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/melbourne/panorama/p989.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/melbourne/panorama/p990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/melbourne/panorama/p991.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/panorama/yosemite1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/panorama/yosemite2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/panorama/yosemite3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/panorama/yosemite4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite1_warp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite2_warp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite3_warp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite4_warp.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite_pano_homography_blendwidth50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/yosemite/yosemite_pano_translation_blendwidth50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testMat/identityA.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testMat/resultsBlank.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testMat/resultsGrid.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testMat/warpBlank.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/warp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实验三说明.docx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/warp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alignment.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blend.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1403">
+              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="182" />
+    <option name="y" value="96" />
+    <option name="width" value="1575" />
+    <option name="height" value="963" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Panorama" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Panorama" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb82e99e-8053-4c52-bc4b-ccb09e505218" name="Default Changelist" comment="" />
+      <created>1575115624201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575115624201</updated>
+      <workItem from="1575115628095" duration="828000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="828000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="182" y="96" width="1575" height="963" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24950884" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" weight="0.3297491" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33053893" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297491" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/alignment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/warp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
